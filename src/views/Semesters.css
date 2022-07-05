@@ -1,0 +1,15 @@
+#sem_page_cont {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#sem_table_cont {
+    width: 60%;
+    height: fit-content;
+    border: 1px solid #bdbdbd;
+    border-radius: 4px;
+}

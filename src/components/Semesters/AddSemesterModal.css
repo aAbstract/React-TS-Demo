@@ -1,0 +1,5 @@
+#add_sem_form_cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
